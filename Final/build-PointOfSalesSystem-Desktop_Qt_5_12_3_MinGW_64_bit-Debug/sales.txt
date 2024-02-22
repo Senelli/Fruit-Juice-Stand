@@ -1,0 +1,92 @@
+Date: Thu Dec 16 2021
+Operator ID: 
+Transaction ID: 
+Customer ID: 
+Item ID: 5-1
+Item Name: Papaya
+Item Size: Small
+Ice Level: Regular Ice
+Sugar Level: Regular Sugar
+Price: $ 4.00
+Quantity: 1
+Subtotal: $ 4.00
+Item ID: 6-2
+Item Name: Cantaloupe
+Item Size: Large
+Ice Level: No Ice
+Sugar Level: Regular Sugar
+Price: $ 5.00
+Quantity: 2
+Subtotal: $ 10.00
+Total: $ 14.00
+
+Date: Thu Dec 16 2021
+Operator ID: ad
+Transaction ID: 20211216071226
+Customer ID: 9395743
+Item ID: 2-2
+Item Name: Orange
+Item Size: Large
+Ice Level: Regular Ice
+Sugar Level: Regular Sugar
+Price: $ 5.00
+Quantity: 1
+Subtotal: $ 5.00
+Item ID: 7-2
+Item Name: Avocado
+Item Size: Large
+Ice Level: Regular Ice
+Sugar Level: Regular Sugar
+Price: $ 6.50
+Quantity: 1
+Subtotal: $ 6.50
+Total: $ 11.50
+
+Date: Thu Dec 16 2021
+Operator ID: aj
+Transaction ID: 20211216081614
+Customer ID: 2897706
+Item ID: 3-1
+Item Name: Watermelon
+Item Size: Small
+Ice Level: Regular Ice
+Sugar Level: Regular Sugar
+Price: $ 3.00
+Quantity: 1
+Subtotal: $ 3.00
+Item ID: 1-1
+Item Name: Apple
+Item Size: Small
+Ice Level: Regular Ice
+Sugar Level: Regular Sugar
+Price: $ 3.50
+Quantity: 1
+Subtotal: $ 3.50
+Total: $ 6.50
+
+Date: Thu Dec 16 2021
+Operator ID: aa
+Transaction ID: 20211216083522
+Customer ID: 2321732
+Item ID: 7-1
+Item Name: Avocado
+Item Size: Small
+Ice Level: Regular Ice
+Sugar Level: Regular Sugar
+Price: $ 5.00
+Quantity: 1
+Subtotal: $ 5.00
+Total: $ 5.00
+
+Date: Thu Dec 16 2021
+Operator ID: 
+Transaction ID: 
+Customer ID: 
+Total: $ 0.00
+
+Date: Thu Dec 16 2021
+Operator ID: 
+Transaction ID: 
+Customer ID: 
+Total: $ 0.00
+
